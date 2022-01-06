@@ -1,0 +1,11 @@
+{
+  "name": "Single Materialize Theme",
+  "version": "1.0.0",
+  "description": "A simple material theme building for StartCMS",
+  "url": "git+https://github.com/gervisbermudez/singlematerializetheme.git",
+  "author": "Gervis Bermúdez",
+  "license": "ISC",
+  "preview": "theme_preview.jpg",
+  "updated": "2022-01-06 12:18:17",
+  "menus": ["menu_top", "footer"]
+}
